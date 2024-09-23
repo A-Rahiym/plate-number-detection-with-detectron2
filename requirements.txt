@@ -10,5 +10,5 @@ Pillow
 numpy
 matplotlib
 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.8/index.html
-#git+https://github.com/facebookresearch/detectron2.git
+git+https://github.com/facebookresearch/detectron2.git
 
