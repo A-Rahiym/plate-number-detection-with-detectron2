@@ -1,9 +1,12 @@
-pyyaml==5.1
 torch
 torchvision
+
+pyyaml==5.1
 streamlit
+
 opencv-python
 Pillow
+
 numpy
 matplotlib
 git+https://github.com/facebookresearch/detectron2.git
